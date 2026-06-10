@@ -1,0 +1,2 @@
+# The-Persona
+The Persona" is a narrative-driven social deduction game set in a noirs city. The player takes on the role of a night-shift taxi driver who picks up strange passengers. However, not everyone who enters the car is human. Some are ghosts, aliens, or monsters wearing a mask.
